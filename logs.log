@@ -1,0 +1,4 @@
+{ Time: "2020-09-13 21:37:51" Method: "GET" Endpoint: "/login" Code: "304" Duration: "0.028" ms }
+{ Time: "2020-09-13 21:37:51" Method: "GET" Endpoint: "/css/login.css" Code: "304" Duration: "0.005" ms }
+{ Time: "2020-09-13 21:38:10" Method: "GET" Endpoint: "/login" Code: "304" Duration: "0.004" ms }
+{ Time: "2020-09-13 21:38:10" Method: "GET" Endpoint: "/css/login.css" Code: "304" Duration: "0.006" ms }
